@@ -1,3 +1,4 @@
+![logo](https://github.com/sukeshperiyasamy/sukeshperiyasamy/blob/main/github%20banner.jpg)
 <h1 align="center">Hi 👋, I'm sukesh</h1>
 <h3 align="center">A passionate full stack developer from India</h3>
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/85454574/227852262-8c5581d6-c826-4d85-a9fd-fe1398388294.png">
