@@ -1,4 +1,4 @@
-![logo](https://github.com/sukeshperiyasamy/sukeshperiyasamy/blob/main/github%20banner.jpg)
+![logo](https://github.com/sukeshperiyasamy/sukeshperiyasamy/blob/main/banner..png)
 <h1 align="center">Hi 👋, I'm SUKESH</h1>
 <h3 align="center">A Passionate Full stack Developer</h3>
 
