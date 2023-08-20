@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **Python**
 
-- 👨‍💻 My Portfolio [https://sukesh-portfolio.netlify.app](https://sukesh-portfolio.netlify.app)
+- 👨‍💻 My Portfolio [https://sukesh.tech](https://sukesh.tech)
 
 - 📫 Reach me @ **sukeshperiyasamy@gmail.com**
 
