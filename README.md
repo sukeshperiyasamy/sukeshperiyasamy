@@ -6,11 +6,11 @@
 
 - 🔭 I’m currently studying **Master Of Technology (Medical Technology)**
 
-- 👨‍💻 My Portfolio [https://sukeshdev.in](https://sukeshdev.in)
+- 👨‍💻 My Portfolio [Website](https://sukeshdev.in)
 
 - 📫 Reach me @ **sukeshperiyasamy@gmail.com**
 
-- 📄 Know about me [https://rxresu.me/sukesh/sukesh-resume](https://rxresu.me/sukesh/sukesh-resume)
+- 📄 Know about me [Resume](https://rxresu.me/sukesh/sukesh-resume)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
