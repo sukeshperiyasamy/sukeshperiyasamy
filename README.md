@@ -4,9 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sukeshperiyasamy&label=Profile%20views&color=0e75b6&style=flat" alt="sukeshperiyasamy" /> </p>
 
-- 🔭 I’m currently studying **Master Of Computer Applications**
-
-- 🌱 I’m currently learning **Python**
+- 🔭 I’m currently studying **Master Of Technology (Medical Technology)**
 
 - 👨‍💻 My Portfolio [https://sukeshdev.in](https://sukeshdev.in)
 
