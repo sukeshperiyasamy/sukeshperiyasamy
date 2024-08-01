@@ -8,11 +8,11 @@
 
 - 🌱 I’m currently learning **Python**
 
-- 👨‍💻 My Portfolio [https://sukesh.tech](https://sukesh.tech)
+- 👨‍💻 My Portfolio [https://sukeshdev.in](https://sukeshdev.in)
 
 - 📫 Reach me @ **sukeshperiyasamy@gmail.com**
 
-- 📄 Know about me [https://rxresu.me/sukesh/sukesh](https://rxresu.me/sukesh/sukesh)
+- 📄 Know about me [https://rxresu.me/sukesh/sukesh-resume](https://rxresu.me/sukesh/sukesh-resume)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
